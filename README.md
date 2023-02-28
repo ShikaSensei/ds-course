@@ -54,5 +54,5 @@ Clusterisation with K-means, Agglomerative hierarchical clustering and DBSCAN
 
 ## homework_09
 Overfitting MNIST on PyTorch to understand what might lead to overfitting of FC-ANN. Practiced monitoring training progress with [WANDB](https://wandb.ai)  
-In my project, I was able to overfit only using many epochs and small datasets. Experiments with larger FC-ANN lead to poor model performance overall:  
+In my project, I was able to overfit only using many epochs and small datasets. Experiments with larger FC-ANN led to poor model performance overall:  
 ![overfitting_fails.png](homework_09%2Foverfitting_fails.png)
