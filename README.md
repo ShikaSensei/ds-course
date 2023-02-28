@@ -56,3 +56,23 @@ Clusterisation with K-means, Agglomerative hierarchical clustering and DBSCAN
 Overfitting MNIST on PyTorch to understand what might lead to overfitting of FC-ANN. Practiced monitoring training progress with [WANDB](https://wandb.ai)  
 In my project, I was able to overfit only using many epochs and small datasets. Experiments with larger FC-ANN led to poor model performance overall:  
 ![overfitting_fails.png](homework_09%2Foverfitting_fails.png)
+
+## homework_10
+Anomaly detection with various methods:
+- Basic methods: std and IQR based
+- Distance-based
+- Density-based (DBSCAN)
+- One-class SVM
+- Isolation forest
+- Results visualisations and comparisons
+
+Be warned: it is mostly in Russian.
+
+## homework_11
+Infection spreading simulations. There is almost no connection to data science. However, it was an interesting coding project and practice with basics of NetworkX library.  
+Check it out on [Kaggle](https://www.kaggle.com/code/lazygene/infection-spreading-simulations), since I just downloaded the notebook from there to this repo.
+
+## homework_12
+Practice with autoencoders on PyTorch.
+
+To be continued... You can expect more study project with Computer Vision tasks and final project of this course!
