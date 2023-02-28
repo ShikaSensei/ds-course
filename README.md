@@ -1,3 +1,19 @@
+This repository contains the study projects I completed as part of the OTUS Data Science course.
+
+You'll find a brief overview of the projects below.
+
+Please note that some of the commentary in the code and project reports is in Russian, as it was sometimes easier and faster for me to express my ideas in my native language. I needed to balance my regular job and course assignments with deadlines! However, I was trying to write in English as much as possible.
+
+# Projects for Data Science course
+## project_01
+This is a small, mostly research-based project. The theme is Identification of Psychiatric Disorders From EEG Using Methods of Machine Learning (Идентификация психических расстройств методами машинного обучения на основе данных ЭЭГ)
+
+I believe that it will be more convenient to check it out on Kaggle:  
+- [Exploratory Data Analysis and multiclass classification](https://www.kaggle.com/code/lazygene/eda-and-multi-class-classification)  
+- [Binary classification and feature importance](https://www.kaggle.com/code/lazygene/binary-classification-and-feature-importance/)
+### presentation.pttx
+Presentation in Russian about the project and its results
+
 # Homework for Data Science course
 ## homework_01
 Basic programming tasks on Python
